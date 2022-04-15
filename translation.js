@@ -1,0 +1,40 @@
+const i18Obj = {
+  en: {
+    'home': 'Home',
+    'about': 'About',
+    'projects': 'Projects',
+    'blog': 'Blog',
+    'contacts': 'Contacts',
+    'design': 'Design',
+    'front': 'Front-End Developer',
+    'anna': 'Hi! I\'m Anna',
+    'boast': 'I made this website using my skills in design and coding. Check it out!',
+    'about-btn': 'About me',
+  },
+  ru: {
+    'home': 'Домой',
+    'about': 'Обо мне',
+    'projects': 'Проекты',
+    'blog': 'Блог',
+    'contacts': 'Контакты',
+    'design': 'Дизайн',
+    'front': 'FrontEnd разработчик',
+    'anna': 'Привет! Я - Анна',
+    'boast': 'Сайт создан с нуля при помощи навыков в дизайне и программировании. Добро пожаловать!',
+    'about-btn': 'Обо мне',
+  },
+  ch: {
+    'home': '主页',
+    'about': '简介',
+    'projects': '成功案例',
+    'blog': '播客',
+    'contacts': '联系我',
+    'design': '设计',
+    'front': '前端开发工程师',
+    'anna': '嗨！我叫安娜',
+    'boast': '这个网站是利用设计与编辑的技巧而做的。欢迎光临!',
+    'about-btn':'简介',
+  },
+};
+
+export default i18Obj;
