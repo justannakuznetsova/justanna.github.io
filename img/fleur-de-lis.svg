@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="90mm"
+   height="90mm"
+   viewBox="0 0 90 90"
+   version="1.1"
+   id="svg2216"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="fleur-de-lis-filled-white-band.svg">
+  <defs
+     id="defs2210" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="88.777195"
+     inkscape:cy="203.65936"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1280"
+     inkscape:window-height="755"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2213">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-70.249129,-112.71821)">
+    <g
+       id="g2821">
+      <path
+         id="path2794"
+         d="m 109.7665,173.53364 c -0.896,3.20591 -6.81306,9.434 -8.05157,10.30314 1.96944,0.70774 8.09377,-1.8637 9.64004,-2.96007 -0.32514,2.96753 1.53389,12.90314 3.88928,12.76904 2.57882,-0.72015 4.30876,-10.93017 4.16356,-12.87831 0.8414,1.22675 7.58,3.71375 9.09277,3.06934 -1.97317,-1.1212 -6.6716,-7.4871 -7.88776,-10.30314"
+         style="fill:#000000;stroke:#000000;stroke-width:0.26458332px" />
+      <path
+         id="path2792"
+         d="m 119.244,169.2239 c 0.57954,-2.60373 0.10921,-12.50333 7.31815,-18.74259 3.95382,-3.4232 8.04414,-3.69512 12.07488,-2.85081 1.75975,0.37001 4.67607,3.36858 4.49863,7.50821 -0.17996,4.2191 -0.46042,6.0766 -3.3693,9.31729 -2.8965,3.22454 -7.57753,4.18929 -9.67854,4.10982 0.57582,-2.44479 2.16429,-4.97525 1.7101,-6.46647 -1.37876,-4.2551 -7.55394,3.96333 -8.52069,7.15186"
+         style="fill:#000000;stroke:#000000;stroke-width:0.26458332px" />
+      <path
+         id="path2790"
+         d="m 111.52004,169.28721 c -0.57336,-2.61117 -0.48772,-11.85148 -7.61353,-18.85186 -3.87439,-3.80438 -8.234013,-3.71747 -12.38017,-2.84956 -1.801927,0.37622 -4.343487,3.31394 -4.162302,7.45234 0.184909,4.2191 0.379745,5.79226 3.286158,9.09751 3.08387,3.50639 7.669351,4.90572 9.640054,4.38423 -0.588225,-2.44479 -2.217666,-4.97401 -1.752288,-6.46647 1.413493,-4.25511 7.772358,4.04527 8.763928,7.23381"
+         style="fill:#000000;stroke:#000000;stroke-width:0.26458332px" />
+      <path
+         id="path2172"
+         d="m 115.25668,121.75969 c -13.9575,13.41098 -7.79346,25.82367 -3.54429,38.57534 0.97417,2.92158 1.59096,5.67181 1.39612,8.86283 l 4.38321,0.0347 c 0.005,-3.12769 0.26555,-6.2467 1.53633,-9.13724 6.15536,-13.9933 9.9615,-24.65404 -3.76393,-38.3121"
+         style="fill:#000000;stroke:#000000;stroke-width:0.26458332px" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2788"
+         d="m 102.7015,169.25871 h 25.30641 v 5.07654 H 102.7015 Z"
+         style="fill:#000000;stroke:#ffffff;stroke-width:1.3;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+  </g>
+</svg>
