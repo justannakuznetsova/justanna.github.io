@@ -470,6 +470,77 @@ body{
   }
 }
 
+.design{
+
+  .box-container{
+    @include grid(31rem);
+
+    .box{
+      text-align: center;
+      padding: 2rem;
+      border-radius: .5rem;
+      background: $white;
+      box-shadow: $box-shadow;
+
+      &:hover .image img{
+        transform: scale(1.2);
+      }
+
+      .image{
+        height: 20rem;
+        width:100%;
+        border-radius: .5rem;
+        overflow: hidden;
+
+        img{
+          height: 100%;
+          width:100%;
+          object-fit: cover;
+          transition: .2s linear;
+        }
+
+        #long{
+          height: 21rem;
+          width: 50%;
+          object-fit:contain;
+          transition: .2s linear;
+        }
+      }
+
+      .content{
+
+          a{
+            font-size: 1.4rem;
+            margin:0 1rem;
+            color:$white;
+
+            &:hover{
+              color:$light;
+            }
+
+            i{
+              padding-right: .5rem;
+              color:$light;
+            }
+        }
+
+        h3{
+          font-size: 2rem;
+          color:$white;
+          font-weight: normal;
+        }
+
+        p{
+          font-size: 1.5rem;
+          color:$fuxia;
+          padding:1rem 0;
+          line-height: 2;
+        }
+      }
+    }
+  }
+}
+
 .blog{
 
   .box-container{
@@ -477,7 +548,7 @@ body{
 
     .box{
       text-align: center;
-      padding:2rem;
+      padding: 2rem;
       border-radius: .5rem;
       background: $light;
       box-shadow: $box-shadow;
@@ -637,4 +708,58 @@ animation-delay: -$i * .2s;
 transform: translate3d((random(90) * 1vw), (random(90) * 1vh), (random(100) * 1px));
 background: hsl(270, 70%, 70%);
 }
+}
+
+// Language buttons
+
+.language-box {
+  display: flex;
+  float: right;
+  margin-right: 10px;
+}
+
+.fleur {
+  width: 2vw;
+  height: 3.5vw;
+}
+
+.language-button-ru {
+  border: 0;
+  background-color: transparent;
+  font-size: 2.5vw;
+  cursor: pointer;
+  color: $fuxia;
+  font-family: Lobster, cursive;
+  transition: 0.3s; 
+}
+.language-button-en {
+  border: 0;
+  background-color: transparent;
+  font-size: 2.5vw;
+  cursor: pointer;
+  color: $fuxia;
+  font-family: Lobster, cursive;
+  transition: 0.3s; 
+}
+
+.language-button-ch {
+  border: 0;
+  background-color: transparent;
+  font-size: 2.5vw;
+  cursor: pointer;
+  color: $fuxia;
+  font-family: Lobster, cursive;
+  transition: 0.3s; 
+}
+
+.language-button-en:hover {
+  text-shadow: 0 0 10px $fuxia;
+}
+
+.language-button-ru:hover {
+  text-shadow: 0 0 10px $fuxia;
+}
+
+.language-button-ch:hover {
+  text-shadow: 0 0 10px $fuxia;
 }
